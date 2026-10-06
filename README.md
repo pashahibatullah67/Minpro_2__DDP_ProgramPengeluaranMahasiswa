@@ -19,3 +19,9 @@ Ini merupakan hasil output yang dimana saya disini login sebagai admin dengan us
 <img width="402" height="94" alt="Screenshot 2026-10-06 234017" src="https://github.com/user-attachments/assets/75186992-31e1-4834-a185-9b5358b6c6d8" />
 <img width="463" height="194" alt="Screenshot 2026-10-06 233842" src="https://github.com/user-attachments/assets/0d9123e7-b350-4761-8643-d8bead8f73b7" />
 
+Diatas merupakan screenshot dari pilihan 1 dan 2 yaitu tambah dan lihat pengeluaran yang dimana admin dapat menambahkan data dari barang yang dibeli seperti nama, kategori, dan tentu saja harga dari barang tersebut. Dan saat admin atau member ingin melihat pengeluaran maka akan tertampil tabel dari pengeluaran yang telah tercatat dan tersimpan dengan bantuan prettyTable.
+
+<img width="779" height="210" alt="Screenshot 2026-10-06 234526" src="https://github.com/user-attachments/assets/fd10f5a6-6c56-47cc-a380-fb945144cb4b" />
+<img width="677" height="198" alt="Screenshot 2026-10-06 234635" src="https://github.com/user-attachments/assets/02d8f095-3e4d-481d-bed7-8462de8cc527" />
+
+Diatas merupakan screenshot dari 2 output yaitu jika admin memilih pilihan 3 dan 4 yaitu ubah dan hapus. Yang dimana pada setiap awalan outpun, program akan menampilkan tabel dari pengeluaran yang sudah tercatat.Dan setiap kali ingin mengubah atau menghapus data, program akan menanyakannya kepada admin.
