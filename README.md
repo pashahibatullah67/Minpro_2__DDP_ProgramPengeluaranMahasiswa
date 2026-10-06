@@ -25,3 +25,9 @@ Diatas merupakan screenshot dari pilihan 1 dan 2 yaitu tambah dan lihat pengelua
 <img width="677" height="198" alt="Screenshot 2026-10-06 234635" src="https://github.com/user-attachments/assets/02d8f095-3e4d-481d-bed7-8462de8cc527" />
 
 Diatas merupakan screenshot dari 2 output yaitu jika admin memilih pilihan 3 dan 4 yaitu ubah dan hapus. Yang dimana pada setiap awalan outpun, program akan menampilkan tabel dari pengeluaran yang sudah tercatat.Dan setiap kali ingin mengubah atau menghapus data, program akan menanyakannya kepada admin.
+
+
+<img width="472" height="187" alt="Screenshot 2026-10-06 234946" src="https://github.com/user-attachments/assets/6de485fa-d26a-450c-9b2f-053fe5c6c626" />
+
+Screenshot diatas merupakan screenshot jika admin memilih untuk keluar dari program atau memilih pilihan nomor 5, yang membuat program berhenti dan di selesaikan
+
